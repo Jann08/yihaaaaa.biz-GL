@@ -11,7 +11,8 @@ Planung und Dokumentation Netzwerk-Infrastruktur für die Firma yihaaaaa.biz.
 ## Tasks:
 - **Reset** Reset Button 7 Sekunden drücken.
 - **Auf Web interface zugreifen** Im Browser die IP des Router eingeben und auf dem PC die IPv4 Adresse vom Lan Adapter ändern auf das Subnet des Routers.
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+- **IP-Adresse ändern:**  
+![IPv4 Adaptereinstellungen](https://raw.githubusercontent.com/Jann08/yihaaaaa.biz-GL/main/Images/ipadapter.png)
 
 ## Subnet-Planung
 
