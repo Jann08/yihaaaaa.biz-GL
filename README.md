@@ -7,6 +7,11 @@ Planung und Dokumentation Netzwerk-Infrastruktur für die Firma yihaaaaa.biz.
 - **Netzwerk-Diagramm:** Eine visuelle Darstellung des Netzwerks mit allen wichtigen Geräten und Verbindungen.
 - **Subnet-Tabelle:** Übersicht über die IP-Adressbereiche der einzelnen Abteilungen und Geräte.
 - **Namenskonvention:** Einheitliche Benennung der Geräte basierend auf Abteilungen.
+## Netgear Business Router
+## Tasks:
+- **Reset** Reset Button 7 Sekunden drücken.
+- **Auf Web interface zugreifen** Im Browser die IP des Router eingeben und auf dem PC die IPv4 Adresse vom Lan Adapter ändern auf das Subnet des Routers.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Subnet-Planung
 
