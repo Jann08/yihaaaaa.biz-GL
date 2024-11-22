@@ -9,8 +9,6 @@ Planung und Dokumentation Netzwerk-Infrastruktur für die Firma yihaaaaa.biz.
 - **Namenskonvention:** Einheitliche Benennung der Geräte basierend auf Abteilungen.
 
 ## Struktur
-
-- `diagrams/` - Enthält das Netzwerk-Diagramm.
 - `docs/` - Markdown-Dokumente wie Subnet-Tabelle und Stückliste.
 - `README.md` - Diese Übersicht.
 
