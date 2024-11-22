@@ -1,12 +1,11 @@
 # yihaaaaa.biz - Netzwerk-Infrastruktur
 
-Dieses Repository enthält die Planung und Dokumentation der neuen Netzwerk-Infrastruktur für die Firma yihaaaaa.biz.
+Planung und Dokumentation Netzwerk-Infrastruktur für die Firma yihaaaaa.biz.
 
 ## Inhalte
 
 - **Netzwerk-Diagramm:** Eine visuelle Darstellung des Netzwerks mit allen wichtigen Geräten und Verbindungen.
 - **Subnet-Tabelle:** Übersicht über die IP-Adressbereiche der einzelnen Abteilungen und Geräte.
-- **Stückliste:** Alle benötigten Netzwerkkomponenten mit Anzahl und Beschreibung.
 - **Namenskonvention:** Einheitliche Benennung der Geräte basierend auf Abteilungen.
 
 ## Struktur
@@ -25,8 +24,3 @@ Dieses Repository enthält die Planung und Dokumentation der neuen Netzwerk-Infr
 | IT/Operations                | 172.16.0.64/28 | 14                     |
 | Mobile Geräte                | 172.16.0.96/26 | 50                     |
 
-## Installation und Nutzung
-
-1. Klone das Repository:
-   ```bash
-   git clone https://github.com/<username>/yihaaaaa.biz.git
