@@ -8,10 +8,6 @@ Planung und Dokumentation Netzwerk-Infrastruktur für die Firma yihaaaaa.biz.
 - **Subnet-Tabelle:** Übersicht über die IP-Adressbereiche der einzelnen Abteilungen und Geräte.
 - **Namenskonvention:** Einheitliche Benennung der Geräte basierend auf Abteilungen.
 
-## Struktur
-- `docs/` - Markdown-Dokumente wie Subnet-Tabelle und Stückliste.
-- `README.md` - Diese Übersicht.
-
 ## Subnet-Planung
 
 | Abteilung                    | Subnetz        | Hosts (inkl. Reserve) |
