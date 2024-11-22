@@ -8,11 +8,13 @@ Planung und Dokumentation Netzwerk-Infrastruktur für die Firma yihaaaaa.biz.
 - **Subnet-Tabelle:** Übersicht über die IP-Adressbereiche der einzelnen Abteilungen und Geräte.
 - **Namenskonvention:** Einheitliche Benennung der Geräte basierend auf Abteilungen.
 ## Netgear Business Router
-## Tasks:
+
 - **Reset** Reset Button 7 Sekunden drücken.
-- **Auf Web interface zugreifen** Im Browser die IP des Router eingeben und auf dem PC die IPv4 Adresse vom Lan Adapter ändern auf das Subnet des Routers.
-- **IP-Adresse ändern:**  
+- **IP Adresse ändern** Im Browser die IP des Router eingeben und auf dem PC die IPv4 Adresse vom Lan Adapter ändern auf das Subnet des Routers.
+- **IP-Adresse des Adapters ändern:**  
 ![IPv4 Adaptereinstellungen](https://raw.githubusercontent.com/Jann08/yihaaaaa.biz-GL/main/Images/ipadapter.png)
+## Interface Loggin
+  - Nach dem ändern der IP und dem connecten auf das web interface einloggen mit dem User:"admin" und dem Password:"password".
 
 ## Subnet-Planung
 
